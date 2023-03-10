@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1678473398,,"wq"
+|2,0,1678482580,,"wq"
 :q
 |2,0,1678472328,,"q"
 
@@ -32,34 +32,46 @@ $
 # Registers:
 
 # File marks:
-'0  2  18  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
-|4,48,2,18,1678473398,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
-'1  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,49,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'2  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,50,1,24,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'3  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,51,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'4  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,52,1,24,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'5  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,53,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
-'6  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,54,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'7  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,55,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
-'8  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,56,1,39,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
-'9  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,57,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+'0  1  4  ~/0x00-vagrant/0-hello_ubuntu
+|4,48,1,4,1678482580,"~/0x00-vagrant/0-hello_ubuntu"
+'1  2  18  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,49,2,18,1678473398,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
+'2  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,50,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'3  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,51,1,24,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'4  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,52,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'5  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,53,1,24,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'6  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,54,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+'7  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,55,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+'8  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+|4,56,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+'9  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+|4,57,1,39,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 
 # Jumplist (newest first):
+-'  1  4  ~/0x00-vagrant/0-hello_ubuntu
+|4,39,1,4,1678482580,"~/0x00-vagrant/0-hello_ubuntu"
+-'  2  18  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+|4,39,2,18,1678473398,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
 -'  2  18  ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
 |4,39,2,18,1678473398,"~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions"
 -'  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  12  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,12,1678473108,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,24,1678473093,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,24,1678473093,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,1,24,1678473093,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
@@ -68,6 +80,14 @@ $
 |4,39,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1678472902,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1678472856,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1678472856,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,1,0,1678472856,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
@@ -76,6 +96,14 @@ $
 |4,39,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  2  13  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,2,13,1678472637,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,24,1678472556,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+-'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+|4,39,1,24,1678472556,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
 |4,39,1,24,1678472556,"~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
 -'  1  24  ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
@@ -112,6 +140,38 @@ $
 |4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
 -'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
 |4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1678472328,"~/alx-system_engineering-devops/.git/MERGE_MSG"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
 |4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
@@ -176,86 +236,33 @@ $
 |4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
 |4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
--'  1  39  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,1,39,1678472111,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-|4,39,2,28,1678472020,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1678472248,"~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x00-vagrant/0-hello_ubuntu
+	*	1678482576	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
 	*	1678473394	0
